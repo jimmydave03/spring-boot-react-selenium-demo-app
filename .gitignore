@@ -1,0 +1,5 @@
+.idea
+*.iml
+/task-api/target/
+/task-ui/node_modules
+/task-ui-tests/target/
